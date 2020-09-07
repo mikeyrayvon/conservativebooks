@@ -1,0 +1,14 @@
+backend:
+  name: test-repo
+  branch: master
+media_folder: public/img
+public_folder: img
+collections:
+  - name: "pages"
+    label: "Pages"
+    create: true
+    folder: content/pages
+    fields:
+      - { label: "Title", name: "title", widget: "string"}
+      - { label: "Publish Date", name: "date", widget: "datetime", required: false }
+      - { label: "Body", name: "body", widget: "markdown", required: false}
