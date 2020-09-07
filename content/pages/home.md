@@ -7,3 +7,5 @@ Conservative Books is an experimental publisher with 58 years of experience. Our
 Conservative Books is located primarily in Basel, Switzerland.
 
 Inquiries: <mailto:conservativebooks@yandex.ru>
+
+![Conservative Book](/img/gospel.png)
