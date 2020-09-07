@@ -1,6 +1,13 @@
-@tailwind base;
 @tailwind components;
+
+html, body {
+  @apply font-serif;
+}
 
 .markdown {
   max-width: 500px;
+}
+
+img, iframe {
+  @apply max-w-full
 }
