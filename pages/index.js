@@ -18,7 +18,9 @@ const Home = ({ siteTitle, siteDescription, frontmatter, markdownBody }) => {
       </Head>
       <div className='container'>
         <h1>{title}</h1>
-        <ReactMarkdown source={markdownBody} />
+        <div className='markdown'>
+          <ReactMarkdown source={markdownBody} />
+        </div>
       </div>
     </>
   )
