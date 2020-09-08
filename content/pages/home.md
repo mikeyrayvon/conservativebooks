@@ -9,3 +9,15 @@ Conservative Books is located primarily in Basel, Switzerland.
 Inquiries: <mailto:conservativebooks@yandex.ru>
 
 ![Conservative Book](/img/screen-shot-2020-08-06-at-11.41.58.jpg)
+
+We have the books of
+
+* Peter Piller
+* Ramaya Tegegne
+* Jacob Ott
+* Michael Ray-Von
+* Claudia Holzinger
+* Claudia de la Torre
+* Gregor Peschko
+* maybe Jonas Rehren
+* maybe Temra Pavloviç
