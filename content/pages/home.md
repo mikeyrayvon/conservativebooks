@@ -20,4 +20,4 @@ We have the books of
 * Claudia de la Torre
 * Gregor Peschko
 * maybe Jonas Rehren
-* maybe Temra Pavloviç
+* maybe Temra Pavlović
