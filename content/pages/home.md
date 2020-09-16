@@ -19,5 +19,6 @@ We have the books of
 * Claudia Holzinger
 * Claudia de la Torre
 * Gregor Peschko
+* Temra Pavlović
 * maybe Jonas Rehren
-* maybe Temra Pavlović
+*
