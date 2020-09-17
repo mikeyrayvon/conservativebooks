@@ -16,6 +16,7 @@ We have the books of
 * Ramaya Tegegne
 * Jacob Ott
 * Michael Ray-Von
+* Martina Henzi
 * Claudia Holzinger
 * Claudia de la Torre
 * Gregor Peschko
