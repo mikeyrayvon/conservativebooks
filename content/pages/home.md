@@ -13,6 +13,7 @@ Inquiries: <mailto:conservativebooks@yandex.ru>
 We have the books of
 
 * Peter Piller
+* Nicolas Sarmiento
 * Ramaya Tegegne
 * Jacob Ott
 * Michael Ray-Von
