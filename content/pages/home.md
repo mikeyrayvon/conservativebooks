@@ -12,15 +12,15 @@ Inquiries: <mailto:conservativebooks@yandex.ru>
 
 We have the books of
 
-* Peter Piller
-* Nicolas Sarmiento
-* Ramaya Tegegne
-* Jacob Ott
-* Michael Ray-Von
-* Martina Henzi
-* Claudia Holzinger
 * Claudia de la Torre
+* Claudia Holzinger
+* Diogo Carvalho Pinto
 * Gregor Peschko
+* Jacob Ott
+* Martina Henzi
+* Michael Ray-Von
+* Nicolas Sarmiento
+* Peter Piller
+* Ramaya Tegegne
 * Temra Pavlović
-* maybe Jonas Rehren
 *
