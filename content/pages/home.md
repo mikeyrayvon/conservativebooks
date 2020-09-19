@@ -25,10 +25,8 @@ We have the books of
 * Peter Piller
 * Ramaya Tegegne
 * Temra Pavlović
-*  
+* 
 
 ![Claudia Holzinger - Meine CSU](/img/_dsc1114web.jpg)
 
-> Claudia Holzinger. 
->
-> _Meine CSU_
+> Claudia Holzinger. _Meine CSU_
