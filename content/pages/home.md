@@ -10,6 +10,8 @@ Inquiries: <mailto:conservativebooks@yandex.ru>
 
 ![Conservative Book](/img/_dsc1133web.jpg)
 
+> _Conservative Books Archive_
+
 We have the books of
 
 * Claudia de la Torre
@@ -23,4 +25,10 @@ We have the books of
 * Peter Piller
 * Ramaya Tegegne
 * Temra Pavlović
-*
+*  
+
+![Claudia Holzinger - Meine CSU](/img/_dsc1114web.jpg)
+
+> Claudia Holzinger. 
+>
+> _Meine CSU_
