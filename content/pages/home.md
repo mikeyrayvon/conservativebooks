@@ -8,7 +8,7 @@ Conservative Books is located primarily in Basel, Switzerland.
 
 Inquiries: <mailto:conservativebooks@yandex.ru>
 
-![Conservative Book](/img/screen-shot-2020-08-06-at-11.41.58.jpg)
+![Conservative Book](/img/_dsc1133web.jpg)
 
 We have the books of
 
