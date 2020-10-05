@@ -50,6 +50,6 @@ Claudia de la Torre - _Doorstoppers_
 
 Nicolas Sarmiento - _Grids and Coins_
 
-__
+![CNoservative Books Basel, Switzerland](/img/img_4312.jpeg)
 
 __
