@@ -80,4 +80,8 @@ Nicolas Sarmiento - _Centimeter_
 
 Gregor Peschko - _DOKUMENTA_
 
+![Michael Ray-Von - Fairy ring](/img/_dsc1150web.jpg)
+
+Michael Ray-Von - _Fairy ring_
+
 ![](/img/screen-shot-2020-08-06-at-11.41.58.jpg)
