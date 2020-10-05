@@ -38,11 +38,9 @@ Johannes Willi
 
 ![Brain Freeze Shirts - When Farts Become Form](/img/_dsc1135web.jpg)
 
-Brain Freeze Shirts - _When Farts Become Form_
-
 ![Conservative Books at I Never Read](/img/_dsc1046web.jpg)
 
-![Claudia de la Torre - Doorstoppers](/img/img_4282.jpeg)
+![Claudia de la Torre - Doorstoppers](/img/img_4282.jpg)
 
 Claudia de la Torre - _Doorstoppers_ 
 
@@ -50,12 +48,34 @@ Claudia de la Torre - _Doorstoppers_
 
 Nicolas Sarmiento - _Grids and Coins_
 
-![CNoservative Books Basel, Switzerland](/img/img_4312.jpeg)
+![CNoservative Books Basel, Switzerland](/img/img_4312.jpg)
 
 ![Temra Pavlovic - Cupid](/img/_dsc1078web.jpg)
 
 Temra Pavlovic - _Cupid_
 
-![]()
+![Brain Freeze Shirts - Keep Calm and Kunsthalle Basel](/img/img_4358.jpg)
 
-__
+![Jacob Ott - Sextoy 1](/img/_dsc1186web.jpg)
+
+![Jacob Ott - Sextoy 1](/img/_dsc1187web.jpg)
+
+![Jacob Ott - Sextoy 1](/img/img_4349.jpg)
+
+Jacob Ott - _Sextoy 1_
+
+![Diogo Pinto - Don't Count On It](/img/_dsc1145web.jpg)
+
+Diogo Pinto - _Don't Count On It_
+
+![Martina Henzi - Reflector](/img/img_3858.jpg)
+
+Martina Henzi - _Reflector_
+
+![Nicolas Sarmiento - Centimeter](/img/_dsc1116web.jpg)
+
+Nicolas Sarmiento - _Centimeter_
+
+![Gregor Peschko - DOKUMENTA](/img/img_4303.jpg)
+
+Gregor Peschko - _DOKUMENTA_
