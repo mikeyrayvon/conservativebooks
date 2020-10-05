@@ -52,4 +52,10 @@ Nicolas Sarmiento - _Grids and Coins_
 
 ![CNoservative Books Basel, Switzerland](/img/img_4312.jpeg)
 
+![Temra Pavlovic - Cupid](/img/_dsc1078web.jpg)
+
+Temra Pavlovic - _Cupid_
+
+![]()
+
 __
