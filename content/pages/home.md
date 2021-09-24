@@ -6,6 +6,8 @@ Conservative Books is an experimental publisher with 58 years of experience. Our
 
 Conservative Books is located primarily in Basel, Switzerland.
 
+Conservative Books Operatives (A-Z): Martina Henzi, Jonathan Mink, Mariana Murcia, Jacob Ott, Jeremy Palluce, Michael Ray-Von, Pauline Schröder
+
 Inquiries: <mailto:conservativebooks@yandex.ru>
 
 ![Conservative Book](/img/_dsc1133web.jpg)
