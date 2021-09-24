@@ -96,6 +96,7 @@ Michael Ray-Von - _Fairy ring_
 
 ![](/img/screen-shot-2020-08-06-at-11.41.58.jpg)
 
-![](/img/olafur-eliasson.jpg)
+![](/img/57275423_303.jpeg)
 
-Intern of the Week
+Intern of the Week\
+Markus Lüpertz
